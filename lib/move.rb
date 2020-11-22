@@ -9,5 +9,5 @@ end
 # code your input_to_index and move method here!
 def input_to_index (input)
   inputintegeter = input.to_i
-  inputtoarray = inputintegeter - 1 
+  inputtoarray = inputintegeter - 1
 end 
